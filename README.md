@@ -1,5 +1,6 @@
 # Test task
 ## "Become A Developer 2023" (summer course)
+[Click me - task live page view](https://djbob2000.github.io/porta-one/)
 
 The program takes arbitrary text as input and finds, in each word of the text, the first character that is no longer repeated within the analyzed word. Then, from the resulting set of characters, the program should select the first unique character (i.e., the one that is not encountered again in the set) and return it.
 
