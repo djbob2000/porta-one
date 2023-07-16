@@ -8,7 +8,7 @@ The program takes arbitrary text as input and finds, in each word of the text, t
 To run this project, install it locally using npm:
 
 ```
-$ cd ../inboost-test
+$ cd ../porta-one
 $ npm install
 $ npm run dev
 ```
